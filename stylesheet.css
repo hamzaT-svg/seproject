@@ -1,0 +1,121 @@
+/* To Change BAckground color of whole page */
+.bc{
+    background-color: #393939;  
+}
+/*Home Page styling*/
+.home{
+    color: white;
+    height: auto;
+}
+.fh{
+    margin-top:129px !important;
+}
+/*Nav bar Content styling*/
+.li{
+    color: #ffffff !important;
+    font-size: 25px;
+}
+.l1{
+    color: #FF5A09 !important;
+    font-size: 25px;
+    font-weight: bold;
+}
+/*toggler button*/
+.navbar-toggler-icon{
+    color: #FF5A09 !important;
+}
+/*Text and Button Styling*/
+.row{
+    padding-top: 100px;
+}
+.t1, .t2{
+    font-family: monospace;
+    font-size: 40px;
+
+}
+.t2{
+    margin-bottom: 20px;
+}
+.btn{
+    background-color:  #FF5A09;
+    color: #ffffff;
+    font-family: monospace;
+    font-size: x-large;
+}
+/*footer styling*/
+.footer{
+    font-family: monospace;
+    color: #ec7f37;
+    font-size: 25px;
+    margin-top: 155px;
+}
+
+/*****Sign in******
+& Up Page**********
+******************/
+.sb1{
+    margin-top: 10px !important;
+}
+.si1{
+    margin-top:100px !important;
+    margin-bottom: 115px !important;
+}
+.su1{
+    margin-bottom: 17px !important;
+}
+
+/******************
+****Search Page ***
+**Styling*********/
+.row1{
+    padding: 0px !important;
+}
+.image{
+    padding: 8px;
+    box-sizing: border-box;
+}
+.card{
+    margin-top: 15px;
+}
+.b1{
+    width: 100%;
+}
+.footer1{
+    margin-top: 10px;
+}
+/********Order
+page styling***/
+.of{
+    margin-top: 10px !important;
+}
+.ol{
+    color:#ffffff !important;
+}
+.ofoot{
+    margin-top: 34px !important;
+}
+.ocf{
+    padding-top: 121px !important;
+}
+
+.oc1{
+    text-align: center !important;
+    color:#ffffff !important;
+    padding-top: 100px !important;
+    
+}
+/***** For Small
+***Devices******/
+@media only screen and (max-width: 575px) {
+    .card1{
+        margin: 0 auto !important; 
+        float: none !important; 
+        margin-bottom: 10px !important; 
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .t1, .t2{
+        text-align: center !important;
+    }
+}
